@@ -1,4 +1,4 @@
- Step 1: Define workflow name.
+#Step 1: Define workflow name.
 name: semgrep
 # Step 2: 
 # You can choose any combination of triggers below,
